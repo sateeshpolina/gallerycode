@@ -1,0 +1,13 @@
+.list-container {
+  list-style-type: none;
+  margin: 10px;
+  opacity: 0.5;
+}
+.button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.image {
+  height: 50px;
+}

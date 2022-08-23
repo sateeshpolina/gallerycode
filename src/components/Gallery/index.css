@@ -1,0 +1,25 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  padding: 15px;
+}
+.card-container {
+  display: flex;
+  justify-content: center;
+}
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 26px;
+  margin-left: 45px;
+}
+.paragraph {
+  color: #64748b;
+  font-size: 14px;
+  font-family: 'Roboto';
+  margin-left: 45px;
+}
+.thumbnail-container {
+  display: flex;
+  flex-direction: row;
+}
