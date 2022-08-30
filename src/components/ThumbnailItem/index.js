@@ -9,7 +9,12 @@ const ThumbnailItem = props => {
   return (
     <li className="list-container">
       <button type="button" onClick={onStateChange} className="button">
-        <img src={thumbnailUrl} alt={thumbnailAltText} className="image" />
+        <img
+          src={thumbnailUrl}
+          id="image"
+          alt={thumbnailAltText}
+          className="image"
+        />
       </button>
     </li>
   )
